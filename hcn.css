@@ -1,0 +1,8 @@
+body {
+    background: rgb(22,35,92);
+    background: linear-gradient(90deg, rgba(22,35,92,1) 0%, rgba(247,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#16235c",endColorstr="#f70000",GradientType=1);
+}
+#hcn-top-h1  {
+    font-family: 'Poppins', sans-serif;
+}
